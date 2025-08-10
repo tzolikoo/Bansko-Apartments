@@ -1,0 +1,21 @@
+[
+  {
+    "id": "alpine-nest",
+    "name": "Alpine Nest",
+    "location": "קרוב לגונדולה",
+    "distanceToGondolaM": 150,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "capacity": 5,
+    "sizeSqm": 70,
+    "amenities": [
+      "wifi",
+      "parking",
+      "ac"
+    ],
+    "images": [
+      "/photos/alpine-1.jpg",
+      "/photos/alpine-2.jpg"
+    ]
+  }
+]
